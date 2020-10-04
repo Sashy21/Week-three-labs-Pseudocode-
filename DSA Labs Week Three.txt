@@ -1,0 +1,34 @@
+//Pseudocode that will count all the odd numbers upto a user defined point then
+computes the average.
+
+//inputs: stopping point 
+//Outputs: Odd numbers, average
+
+Start
+Input stopping point
+
+Set count to begin at zero
+Set sum to zero
+Set countOdd to zero
+
+FOR  count == 0; count <= stopping point; count ++
+
+		IF count % 2 != 0
+
+		 countOdd++
+		 sum = sum + count
+		 
+		 
+		 
+    print countOdd
+		 
+	average = sum / countOdd
+	
+	THEN
+		print average
+			
+		
+		
+		
+		
+		
