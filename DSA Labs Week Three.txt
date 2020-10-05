@@ -4,7 +4,7 @@ computes the average.
 //inputs: stopping point 
 //Outputs: Odd numbers, average
 
-Start
+START
 Input stopping point
 
 Set count to begin at zero
@@ -26,7 +26,7 @@ FOR  count == 0; count <= stopping point; count ++
 	
 	THEN
 		print average
-			
+END			
 		
 		
 		
